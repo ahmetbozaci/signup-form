@@ -1,9 +1,10 @@
 # Sign Up Form
 
 > A clone of mint sign up form.
+![screenshot](./app_screenshot.png)
 
 ## Live Demo
-https://meronokbay.github.io/signup-form/
+[sign-up-form](https://meronokbay.github.io/signup-form/)
 
 ## Built With
 
@@ -22,13 +23,13 @@ https://meronokbay.github.io/signup-form/
 
 - Github: [@ahmetbozaci](https://github.com/ahmetbozaci)
 - Twitter: [@ahmtbozaci](https://twitter.com/ahmtbozaci)
-- Linkedin: [linkedin](https://linkedin.com/in/ahmetbozaci)
+- Linkedin: [@ahmetbozaci](https://linkedin.com/in/ahmetbozaci)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [https://github.com/meronokbay/signup-form/issues]
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
